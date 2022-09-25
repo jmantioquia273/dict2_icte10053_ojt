@@ -297,7 +297,7 @@ section .title::after{
     transition: all 0.3s ease;
 }
 .services .serv-content .card:hover{
-    background: crimson;
+    background: #0A2872;
 }
 .services .serv-content .card .box{
     transition: all 0.3s ease;
@@ -351,7 +351,7 @@ section .title::after{
     transition: all 0.3s ease;
 }
 .daily .day-content .card:hover{
-    background: crimson;
+    background: #0A2872;
 }
 .daily .day-content .card .box{
     transition: all 0.3s ease;
@@ -803,7 +803,7 @@ footer span a:hover{
     transition: all 0.5s ease;
 }
 .action .act-content .card:hover{
-    background: crimson;
+    background: #0A2872;
 }
 .action .act-content .card .box{
     transition: all 0.3s ease;
