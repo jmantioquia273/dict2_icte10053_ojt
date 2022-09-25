@@ -226,7 +226,6 @@ section .title::after{
     
 }
 .about .title::after{
-    background: #111;
     content: "";
 }
 .about .about-content .left{
