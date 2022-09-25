@@ -784,18 +784,18 @@ footer span a:hover{
 
 	
 }
-.action.title::before,
+.action .title::before,
 .teams .title::before{
     background: #fff;
 }
-.action.title::after,
-.action .title::after{
+.action .title::after,
+.teams .title::after{
     background: #111;
     content: "";
 }
-.action.act-content .card{
+.action .act-content .card{
     width: calc(33% - 20px);
-    background: url(images/wave-life.gif) no-repeat center;
+    background: url("images/wave-life.gif") no-repeat center;
     text-align: center;
     border-radius: 6px;
     padding: 50px 25px;
