@@ -795,7 +795,7 @@ footer span a:hover{
 }
 .action .act-content .card{
     width: calc(33% - 20px);
-    background: url("images/wave-life.gif") no-repeat center;
+    background: url("images/last.gif") no-repeat center;
     text-align: center;
     border-radius: 6px;
     padding: 50px 25px;
