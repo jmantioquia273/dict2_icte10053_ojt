@@ -181,6 +181,7 @@ section .title::after{
 .home .max-width{
   width: 100%;
   display: flex;
+  backdrop-filter: blur(10px);
   
 }
 .home .max-width .row{
