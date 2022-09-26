@@ -246,7 +246,7 @@ section .title::after{
     margin-bottom: 10px;
 }
 .about .about-content .right .text span{
-    color: blue;
+    color: #1F51FF;
 }
 .about .about-content .right p{
    position: static;
@@ -461,6 +461,7 @@ section .title::after{
 .teams .carousel .card{
     background: url("images/last.gif") no-repeat center;
     background-size: cover;
+    border: 2px solid blue;
     border-radius: 6px;
     padding: 25px 35px;
     text-align: center;
