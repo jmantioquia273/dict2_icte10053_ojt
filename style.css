@@ -246,7 +246,7 @@ section .title::after{
     margin-bottom: 10px;
 }
 .about .about-content .right .text span{
-    color: crimson;
+    color: #000080;
 }
 .about .about-content .right p{
    position: static;
@@ -261,12 +261,12 @@ section .title::after{
     padding: 10px 30px;
     margin-top: 20px;
     border-radius: 6px;
-    border: 2px solid crimson;
+    border: 2px solid blue;
     transition: all 0.3s ease;
 
 }
 .about .about-content .right a:hover{
-    color: crimson;
+    color: #0A2872;
     background: none;
 }
 
@@ -489,7 +489,7 @@ section .title::after{
     width: 150px;
     object-fit: cover;
     border-radius: 50%;
-    border: 5px navy blue;
+    border: 5px solid blue;
     transition: all 0.3s ease;
 }
 .teams .carousel .card:hover img{
