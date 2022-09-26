@@ -658,7 +658,8 @@ footer span a:hover{
         width: 100%;
         left: -100%;
         top: 0;
-        background: #111;
+        background: url("images/last.gif") no-repeat center;
+	background-size: cover;
         text-align: center;
         padding-top: 80px;
         transition: all 0.3s ease;
