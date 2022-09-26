@@ -64,7 +64,7 @@ $(document).ready(function(){
     });
 	
 	 var typed = new Typed(".typing-5", {
-        strings: ["ICTE 10053", "Junior Prorammer 2"],
+        strings: ["ICTE 10053", "Junior Programmer 2", "OJT II"],
         typeSpeed: 100,
         backSpeed: 150,
         loop: true
