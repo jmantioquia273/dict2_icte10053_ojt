@@ -211,7 +211,7 @@ section .title::after{
     margin-top: 20px;
     font-weight: 400;
     border-radius: 6px;
-    border: 2px solid crimson;
+    border: 2px solid blue;
     transition: all 0.3s ease;
 }
 .home .home-content a:hover{
@@ -246,7 +246,7 @@ section .title::after{
     margin-bottom: 10px;
 }
 .about .about-content .right .text span{
-    color: #000080;
+    color: blue;
 }
 .about .about-content .right p{
    position: static;
