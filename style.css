@@ -232,10 +232,12 @@ section .title::after{
     width: 45%;
 }
 .about .about-content .left img{
-    height: 400px;
+    height: 500px;
     width: 400px;
     object-fit: cover;
     border-radius: 6px;
+    border: 4px solid blue;
+
 }
 .about .about-content .right{
     width: 55%;
