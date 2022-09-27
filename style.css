@@ -170,7 +170,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("images/qwertyuio.gif") no-repeat center;
+    background: url("images/qwertyui.gif") no-repeat center;
     height: 100vh;
     color: crimson;
     min-height: 500px;
@@ -221,7 +221,7 @@ section .title::after{
 
 /* about section styling */
 .about{
-    background: url("images/loop.gif") no-repeat center;
+    background: url("images/horrible.gif") no-repeat center;
 	background-size: cover;
     
 }
