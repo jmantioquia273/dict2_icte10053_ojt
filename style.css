@@ -221,7 +221,7 @@ section .title::after{
 
 /* about section styling */
 .about{
-    background: url("images/globe.gif") no-repeat center;
+    background: url("images/qwerty.gif") no-repeat center;
 	background-size: cover;
     
 }
