@@ -170,7 +170,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("images/qwertyui.gif") no-repeat center;
+    background: url("images/last.gif") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
@@ -248,7 +248,7 @@ section .title::after{
     margin-bottom: 10px;
 }
 .about .about-content .right .text span{
-    color: #1F51FF;
+    color: green;
 }
 .about .about-content .right p{
    position: static;
