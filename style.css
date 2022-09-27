@@ -172,7 +172,7 @@ section .title::after{
     display: flex;
     background: url("images/qwertyui.gif") no-repeat center;
     height: 100vh;
-    color: crimson;
+    color: #fff;
     min-height: 500px;
     background-size: cover;
     background-attachment: fixed;
