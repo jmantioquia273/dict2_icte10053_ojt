@@ -150,7 +150,7 @@ section .title::after{
     position: fixed;
     height: 45px;
     width: 42px;
-    background: url("images/fire.gif") no-repeat center;
+    background: url("images/galaxy.gif") no-repeat center;
     right: 30px;
     bottom: 10px;
     text-align: center;
