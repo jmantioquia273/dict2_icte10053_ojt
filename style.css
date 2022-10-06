@@ -239,11 +239,10 @@ section .title::after{
     width: 45%;
 }
 .about .about-content .left img{
-    height: 500px;
+    height: 400px;
     width: 400px;
     object-fit: cover;
-    border-radius: 6px;
-    border: 4px solid blue;
+    border: solid blue;
 
 }
 .about .about-content .right{
