@@ -918,10 +918,11 @@ z-index: 999999;
 
 
 .sk-folding-cube {
-  margin: 20px auto;
+ position: absolute;
+ top: 48%;
+ left: 48%;
   width: 40px;
   height: 40px;
-  position: relative;
   -webkit-transform: rotateZ(45deg);
           transform: rotateZ(45deg);
 }
